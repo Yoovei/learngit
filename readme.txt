@@ -1,6 +1,2 @@
-Git is a version control system.
-Git is free softwar.
-Git is convenient for the tech player.
-Git is good for us.
-Git
-git 	
+Creating a new branch is quick.
+
